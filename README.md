@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains AWS automation assignments implemented using AWS Lambda and Boto3. The objective of these assignments is to automate common AWS operational tasks including EC2 instance management, S3 bucket maintenance, security monitoring, and EBS snapshot management.
+This repository contains AWS automation assignments implemented using AWS Lambda and Boto3. The objective is to automate common AWS operational tasks including EC2 instance management, S3 bucket maintenance, security monitoring, and EBS snapshot management.
 
 ## Technologies Used
 
